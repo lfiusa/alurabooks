@@ -2,8 +2,8 @@
 
 Projeto desenvolvido com curso de HTML e CSS da Alura, visando trabalhar a responsividade de uma aplicação web.
 
-![image](https://github.com/lfiusa/alurabooks/assets/142631493/124016f3-cc9e-43c6-844a-739153dd6e1f)
-![image](https://github.com/lfiusa/alurabooks/assets/142631493/0e70e8b7-4e43-4cd2-9780-4f2656b54f20) ![image](https://github.com/lfiusa/alurabooks/assets/142631493/eb0a1eea-0ecb-49f8-a3c2-237021b27018)
+![image](https://github.com/lfiusa/alurabooks/assets/142631493/4cd685be-f365-4904-a9b2-f937ef651170) 
+![image](https://github.com/lfiusa/alurabooks/assets/142631493/e9210bf0-5e06-4242-bda6-98438bc35939) ![image](https://github.com/lfiusa/alurabooks/assets/142631493/e6d72c01-bf1f-4439-af73-4f1ff7d8e8b4)
 
 
 ## Ferramentas utilizadas:
